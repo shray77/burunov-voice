@@ -1,0 +1,5882 @@
+[
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0000.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 0.0,
+    "end": 7.65,
+    "duration": 7.65
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0001.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 7.65,
+    "end": 15.29,
+    "duration": 7.65
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0002.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 15.29,
+    "end": 22.94,
+    "duration": 7.65
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0003.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 22.94,
+    "end": 32.05,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0004.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 32.05,
+    "end": 41.16,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0005.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 41.16,
+    "end": 50.27,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0006.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 50.27,
+    "end": 59.38,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0007.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 59.38,
+    "end": 68.49,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0008.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 68.49,
+    "end": 77.61,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0009.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 77.61,
+    "end": 86.72,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0010.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 86.72,
+    "end": 95.83,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0011.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 95.83,
+    "end": 104.94,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0012.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 104.94,
+    "end": 113.96,
+    "duration": 9.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0013.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 113.96,
+    "end": 122.98,
+    "duration": 9.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0014.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 127.12,
+    "end": 130.19,
+    "duration": 3.07
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0015.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 130.19,
+    "end": 138.52,
+    "duration": 8.32
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0016.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 138.52,
+    "end": 146.84,
+    "duration": 8.32
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0017.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 149.82,
+    "end": 153.03,
+    "duration": 3.21
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0018.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 153.03,
+    "end": 161.27,
+    "duration": 8.23
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0019.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 161.27,
+    "end": 169.5,
+    "duration": 8.23
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0020.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 169.5,
+    "end": 177.74,
+    "duration": 8.23
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0021.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 177.74,
+    "end": 185.97,
+    "duration": 8.23
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0022.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 188.46,
+    "end": 201.06,
+    "duration": 12.6
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0023.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 203.0,
+    "end": 207.98,
+    "duration": 4.98
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0024.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 207.98,
+    "end": 216.0,
+    "duration": 8.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0025.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 216.0,
+    "end": 224.02,
+    "duration": 8.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0026.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 229.45,
+    "end": 237.67,
+    "duration": 8.22
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0027.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 237.67,
+    "end": 247.42,
+    "duration": 9.75
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0028.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 247.42,
+    "end": 255.68,
+    "duration": 8.26
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0029.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 255.68,
+    "end": 263.94,
+    "duration": 8.26
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0030.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 263.94,
+    "end": 272.78,
+    "duration": 8.85
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0031.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 272.78,
+    "end": 281.63,
+    "duration": 8.85
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0032.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 281.63,
+    "end": 284.82,
+    "duration": 3.19
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0033.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 284.82,
+    "end": 288.1,
+    "duration": 3.28
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0034.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 288.1,
+    "end": 302.79,
+    "duration": 14.69
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0035.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 302.79,
+    "end": 308.4,
+    "duration": 5.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0036.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 308.4,
+    "end": 312.72,
+    "duration": 4.32
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0037.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 312.72,
+    "end": 319.42,
+    "duration": 6.69
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0038.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 319.42,
+    "end": 331.12,
+    "duration": 11.71
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0039.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 331.12,
+    "end": 337.01,
+    "duration": 5.88
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0040.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 337.01,
+    "end": 347.97,
+    "duration": 10.97
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0041.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 347.97,
+    "end": 356.04,
+    "duration": 8.07
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0042.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 356.04,
+    "end": 364.11,
+    "duration": 8.07
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0043.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 364.11,
+    "end": 372.2,
+    "duration": 8.1
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0044.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 373.69,
+    "end": 382.71,
+    "duration": 9.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0045.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 382.71,
+    "end": 391.73,
+    "duration": 9.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0046.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 391.73,
+    "end": 400.75,
+    "duration": 9.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0047.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 400.75,
+    "end": 409.11,
+    "duration": 8.36
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0048.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 409.11,
+    "end": 418.97,
+    "duration": 9.86
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0049.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 421.35,
+    "end": 428.88,
+    "duration": 7.53
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0050.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 428.88,
+    "end": 436.41,
+    "duration": 7.53
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0051.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 436.41,
+    "end": 443.93,
+    "duration": 7.53
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0052.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 443.93,
+    "end": 453.45,
+    "duration": 9.52
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0053.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 453.45,
+    "end": 461.45,
+    "duration": 7.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0054.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 461.45,
+    "end": 469.44,
+    "duration": 7.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0055.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 469.44,
+    "end": 474.37,
+    "duration": 4.93
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0056.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 474.37,
+    "end": 483.05,
+    "duration": 8.68
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0057.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 483.05,
+    "end": 486.42,
+    "duration": 3.37
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0058.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 486.42,
+    "end": 493.69,
+    "duration": 7.27
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0059.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 495.98,
+    "end": 499.79,
+    "duration": 3.82
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0060.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 499.79,
+    "end": 502.82,
+    "duration": 3.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0061.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 505.31,
+    "end": 512.3,
+    "duration": 6.98
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0062.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 512.3,
+    "end": 516.8,
+    "duration": 4.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0063.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 516.8,
+    "end": 522.17,
+    "duration": 5.37
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0064.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 522.17,
+    "end": 531.77,
+    "duration": 9.6
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0065.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 531.77,
+    "end": 543.44,
+    "duration": 11.67
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0066.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 543.44,
+    "end": 552.58,
+    "duration": 9.14
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0067.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 552.58,
+    "end": 560.5,
+    "duration": 7.91
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0068.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 560.5,
+    "end": 568.41,
+    "duration": 7.91
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0069.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 568.41,
+    "end": 573.99,
+    "duration": 5.58
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0070.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 573.99,
+    "end": 583.49,
+    "duration": 9.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0071.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 583.49,
+    "end": 592.99,
+    "duration": 9.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0072.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 592.99,
+    "end": 602.49,
+    "duration": 9.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0073.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 602.49,
+    "end": 611.99,
+    "duration": 9.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0074.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 611.99,
+    "end": 621.49,
+    "duration": 9.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0075.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 621.49,
+    "end": 630.99,
+    "duration": 9.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0076.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 630.99,
+    "end": 640.49,
+    "duration": 9.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0077.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 640.49,
+    "end": 653.33,
+    "duration": 12.85
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0078.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 653.33,
+    "end": 657.04,
+    "duration": 3.71
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0079.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 657.04,
+    "end": 664.18,
+    "duration": 7.14
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0080.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 665.96,
+    "end": 674.72,
+    "duration": 8.76
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0081.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 674.72,
+    "end": 683.48,
+    "duration": 8.76
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0082.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 683.48,
+    "end": 690.21,
+    "duration": 6.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0083.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 690.21,
+    "end": 696.94,
+    "duration": 6.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0084.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 696.94,
+    "end": 703.67,
+    "duration": 6.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0085.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 703.67,
+    "end": 709.75,
+    "duration": 6.08
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0086.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 709.75,
+    "end": 718.22,
+    "duration": 8.46
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0087.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 718.22,
+    "end": 726.68,
+    "duration": 8.46
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0088.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 726.68,
+    "end": 732.45,
+    "duration": 5.77
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0089.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 732.45,
+    "end": 743.45,
+    "duration": 11.0
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0090.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 743.45,
+    "end": 750.37,
+    "duration": 6.92
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0091.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 750.37,
+    "end": 753.43,
+    "duration": 3.06
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0092.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 753.43,
+    "end": 756.71,
+    "duration": 3.28
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0093.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 756.71,
+    "end": 764.83,
+    "duration": 8.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0094.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 764.83,
+    "end": 772.94,
+    "duration": 8.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0095.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 772.94,
+    "end": 781.06,
+    "duration": 8.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0096.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 781.06,
+    "end": 789.93,
+    "duration": 8.87
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0097.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 789.93,
+    "end": 795.06,
+    "duration": 5.14
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0098.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 795.06,
+    "end": 800.42,
+    "duration": 5.35
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0099.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 801.66,
+    "end": 807.68,
+    "duration": 6.03
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0100.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 807.68,
+    "end": 812.07,
+    "duration": 4.39
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0101.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 815.06,
+    "end": 818.56,
+    "duration": 3.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0102.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 820.17,
+    "end": 827.14,
+    "duration": 6.97
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0103.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 827.14,
+    "end": 834.12,
+    "duration": 6.97
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0104.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 834.12,
+    "end": 841.09,
+    "duration": 6.97
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0105.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 848.48,
+    "end": 851.7,
+    "duration": 3.22
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0106.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 853.5,
+    "end": 859.91,
+    "duration": 6.42
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0107.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 859.91,
+    "end": 867.85,
+    "duration": 7.94
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0108.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 867.85,
+    "end": 875.79,
+    "duration": 7.94
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0109.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 875.79,
+    "end": 883.73,
+    "duration": 7.94
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0110.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 883.73,
+    "end": 891.67,
+    "duration": 7.94
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0111.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 893.58,
+    "end": 908.18,
+    "duration": 14.59
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0112.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 908.18,
+    "end": 914.02,
+    "duration": 5.84
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0113.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 918.89,
+    "end": 927.92,
+    "duration": 9.03
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0114.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 927.92,
+    "end": 938.81,
+    "duration": 10.89
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0115.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 938.81,
+    "end": 943.82,
+    "duration": 5.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0116.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 943.82,
+    "end": 947.54,
+    "duration": 3.72
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0117.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 949.16,
+    "end": 956.85,
+    "duration": 7.69
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0118.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 956.85,
+    "end": 964.36,
+    "duration": 7.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0119.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 964.36,
+    "end": 971.86,
+    "duration": 7.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0120.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 971.86,
+    "end": 979.36,
+    "duration": 7.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0121.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 981.3,
+    "end": 990.17,
+    "duration": 8.87
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0122.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 990.17,
+    "end": 999.03,
+    "duration": 8.87
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0123.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 999.03,
+    "end": 1006.38,
+    "duration": 7.35
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0124.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1006.38,
+    "end": 1011.49,
+    "duration": 5.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0125.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1011.49,
+    "end": 1015.34,
+    "duration": 3.85
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0126.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1016.77,
+    "end": 1022.4,
+    "duration": 5.63
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0127.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1024.44,
+    "end": 1032.22,
+    "duration": 7.78
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0128.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1037.57,
+    "end": 1044.13,
+    "duration": 6.56
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0129.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1044.13,
+    "end": 1047.2,
+    "duration": 3.07
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0130.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1047.2,
+    "end": 1054.84,
+    "duration": 7.64
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0131.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1055.73,
+    "end": 1062.19,
+    "duration": 6.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0132.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1065.02,
+    "end": 1070.56,
+    "duration": 5.54
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0133.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1070.56,
+    "end": 1074.82,
+    "duration": 4.25
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0134.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1077.17,
+    "end": 1080.25,
+    "duration": 3.08
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0135.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1080.25,
+    "end": 1089.31,
+    "duration": 9.07
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0136.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1089.31,
+    "end": 1092.77,
+    "duration": 3.46
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0137.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1093.78,
+    "end": 1101.6,
+    "duration": 7.81
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0138.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1101.6,
+    "end": 1109.41,
+    "duration": 7.81
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0139.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1109.41,
+    "end": 1117.23,
+    "duration": 7.81
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0140.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1117.23,
+    "end": 1120.82,
+    "duration": 3.6
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0141.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1120.82,
+    "end": 1129.93,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0142.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1129.93,
+    "end": 1139.04,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0143.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1139.04,
+    "end": 1148.15,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0144.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1148.15,
+    "end": 1157.26,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0145.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1157.26,
+    "end": 1166.37,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0146.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1166.37,
+    "end": 1175.48,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0147.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1175.48,
+    "end": 1184.59,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0148.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1184.59,
+    "end": 1193.7,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0149.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1193.7,
+    "end": 1202.81,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0150.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1202.81,
+    "end": 1211.92,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0151.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1211.92,
+    "end": 1221.03,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0152.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1221.03,
+    "end": 1226.81,
+    "duration": 5.78
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0153.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1226.81,
+    "end": 1236.17,
+    "duration": 9.36
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0154.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1236.17,
+    "end": 1245.53,
+    "duration": 9.36
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0155.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1245.53,
+    "end": 1254.89,
+    "duration": 9.36
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0156.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1254.89,
+    "end": 1262.38,
+    "duration": 7.49
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0157.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1264.36,
+    "end": 1276.33,
+    "duration": 11.97
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0158.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1276.33,
+    "end": 1282.23,
+    "duration": 5.91
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0159.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1282.23,
+    "end": 1285.31,
+    "duration": 3.07
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0160.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1285.31,
+    "end": 1295.41,
+    "duration": 10.1
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0161.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1295.41,
+    "end": 1298.51,
+    "duration": 3.1
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0162.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1300.92,
+    "end": 1306.64,
+    "duration": 5.71
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0163.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1306.64,
+    "end": 1309.96,
+    "duration": 3.33
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0164.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1309.96,
+    "end": 1321.95,
+    "duration": 11.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0165.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1321.95,
+    "end": 1331.22,
+    "duration": 9.27
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0166.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1331.22,
+    "end": 1340.5,
+    "duration": 9.27
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0167.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1340.5,
+    "end": 1349.77,
+    "duration": 9.27
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0168.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1349.77,
+    "end": 1360.82,
+    "duration": 11.05
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0169.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1360.82,
+    "end": 1375.21,
+    "duration": 14.4
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0170.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1375.21,
+    "end": 1380.21,
+    "duration": 5.0
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0171.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1380.21,
+    "end": 1392.07,
+    "duration": 11.85
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0172.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1392.07,
+    "end": 1399.05,
+    "duration": 6.98
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0173.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1399.05,
+    "end": 1405.01,
+    "duration": 5.96
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0174.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1405.01,
+    "end": 1412.83,
+    "duration": 7.81
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0175.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1412.83,
+    "end": 1420.64,
+    "duration": 7.81
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0176.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1420.64,
+    "end": 1428.46,
+    "duration": 7.81
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0177.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1428.46,
+    "end": 1436.27,
+    "duration": 7.81
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0178.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1436.27,
+    "end": 1440.24,
+    "duration": 3.97
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0179.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1440.24,
+    "end": 1445.86,
+    "duration": 5.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0180.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1445.86,
+    "end": 1450.89,
+    "duration": 5.03
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0181.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1452.48,
+    "end": 1462.33,
+    "duration": 9.85
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0182.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1462.33,
+    "end": 1468.95,
+    "duration": 6.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0183.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1468.95,
+    "end": 1476.62,
+    "duration": 7.67
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0184.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1476.62,
+    "end": 1484.29,
+    "duration": 7.67
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0185.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1487.0,
+    "end": 1501.37,
+    "duration": 14.37
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0186.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1501.37,
+    "end": 1510.38,
+    "duration": 9.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0187.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1510.38,
+    "end": 1519.39,
+    "duration": 9.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0188.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1519.39,
+    "end": 1528.4,
+    "duration": 9.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0189.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1528.4,
+    "end": 1537.41,
+    "duration": 9.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0190.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1537.41,
+    "end": 1546.42,
+    "duration": 9.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0191.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1546.42,
+    "end": 1555.43,
+    "duration": 9.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0192.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1555.43,
+    "end": 1564.44,
+    "duration": 9.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0193.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1564.44,
+    "end": 1573.45,
+    "duration": 9.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0194.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1573.45,
+    "end": 1582.47,
+    "duration": 9.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0195.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1582.47,
+    "end": 1591.48,
+    "duration": 9.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0196.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1591.48,
+    "end": 1601.84,
+    "duration": 10.37
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0197.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1603.82,
+    "end": 1606.82,
+    "duration": 3.0
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0198.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1613.21,
+    "end": 1616.52,
+    "duration": 3.31
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0199.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1616.52,
+    "end": 1623.62,
+    "duration": 7.1
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0200.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1623.62,
+    "end": 1628.27,
+    "duration": 4.65
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0201.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1628.27,
+    "end": 1632.04,
+    "duration": 3.77
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0202.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1632.04,
+    "end": 1643.8,
+    "duration": 11.75
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0203.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1643.8,
+    "end": 1650.42,
+    "duration": 6.63
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0204.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1652.32,
+    "end": 1659.87,
+    "duration": 7.55
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0205.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1661.87,
+    "end": 1669.0,
+    "duration": 7.13
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0206.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1670.13,
+    "end": 1677.67,
+    "duration": 7.54
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0207.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1677.67,
+    "end": 1685.08,
+    "duration": 7.41
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0208.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1685.08,
+    "end": 1692.49,
+    "duration": 7.41
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0209.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1692.49,
+    "end": 1699.89,
+    "duration": 7.41
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0210.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1699.89,
+    "end": 1703.37,
+    "duration": 3.47
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0211.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1706.34,
+    "end": 1709.78,
+    "duration": 3.44
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0212.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1710.54,
+    "end": 1719.18,
+    "duration": 8.64
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0213.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1719.18,
+    "end": 1733.38,
+    "duration": 14.2
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0214.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1733.38,
+    "end": 1740.81,
+    "duration": 7.43
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0215.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1745.72,
+    "end": 1754.89,
+    "duration": 9.17
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0216.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1754.89,
+    "end": 1762.72,
+    "duration": 7.83
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0217.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1762.72,
+    "end": 1769.72,
+    "duration": 7.0
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0218.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1769.72,
+    "end": 1779.3,
+    "duration": 9.57
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0219.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1779.3,
+    "end": 1786.31,
+    "duration": 7.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0220.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1795.66,
+    "end": 1799.96,
+    "duration": 4.3
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0221.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1799.96,
+    "end": 1805.58,
+    "duration": 5.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0222.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1807.18,
+    "end": 1814.55,
+    "duration": 7.37
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0223.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1814.55,
+    "end": 1820.65,
+    "duration": 6.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0224.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1820.65,
+    "end": 1824.88,
+    "duration": 4.23
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0225.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1824.88,
+    "end": 1834.63,
+    "duration": 9.74
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0226.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1834.63,
+    "end": 1844.37,
+    "duration": 9.74
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0227.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1844.37,
+    "end": 1854.11,
+    "duration": 9.74
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0228.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1854.11,
+    "end": 1863.86,
+    "duration": 9.74
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0229.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1863.86,
+    "end": 1869.16,
+    "duration": 5.31
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0230.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1869.16,
+    "end": 1879.07,
+    "duration": 9.91
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0231.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1879.07,
+    "end": 1888.98,
+    "duration": 9.91
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0232.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1888.98,
+    "end": 1898.89,
+    "duration": 9.91
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0233.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1898.89,
+    "end": 1909.91,
+    "duration": 11.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0234.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1909.91,
+    "end": 1919.9,
+    "duration": 9.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0235.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1919.9,
+    "end": 1929.89,
+    "duration": 9.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0236.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1929.89,
+    "end": 1939.88,
+    "duration": 9.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0237.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1939.88,
+    "end": 1949.87,
+    "duration": 9.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0238.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1949.87,
+    "end": 1959.86,
+    "duration": 9.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0239.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1959.86,
+    "end": 1969.85,
+    "duration": 9.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0240.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1969.85,
+    "end": 1979.84,
+    "duration": 9.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0241.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1979.84,
+    "end": 1989.83,
+    "duration": 9.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0242.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1989.83,
+    "end": 1999.82,
+    "duration": 9.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0243.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 1999.82,
+    "end": 2009.81,
+    "duration": 9.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0244.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2009.81,
+    "end": 2019.8,
+    "duration": 9.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0245.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2019.8,
+    "end": 2029.79,
+    "duration": 9.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0246.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2029.79,
+    "end": 2039.77,
+    "duration": 9.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0247.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2039.77,
+    "end": 2049.13,
+    "duration": 9.35
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0248.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2049.13,
+    "end": 2058.48,
+    "duration": 9.35
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0249.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2058.48,
+    "end": 2067.83,
+    "duration": 9.35
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0250.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2069.34,
+    "end": 2075.11,
+    "duration": 5.77
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0251.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2075.11,
+    "end": 2082.66,
+    "duration": 7.55
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0252.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2085.14,
+    "end": 2093.01,
+    "duration": 7.87
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0253.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2093.01,
+    "end": 2100.88,
+    "duration": 7.87
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0254.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2100.88,
+    "end": 2108.74,
+    "duration": 7.87
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0255.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2108.74,
+    "end": 2116.61,
+    "duration": 7.87
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0256.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2116.61,
+    "end": 2122.01,
+    "duration": 5.4
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0257.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2122.01,
+    "end": 2128.17,
+    "duration": 6.15
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0258.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2128.17,
+    "end": 2138.93,
+    "duration": 10.76
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0259.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2143.46,
+    "end": 2147.56,
+    "duration": 4.1
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0260.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2147.56,
+    "end": 2156.33,
+    "duration": 8.77
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0261.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2156.33,
+    "end": 2159.54,
+    "duration": 3.21
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0262.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2159.54,
+    "end": 2163.46,
+    "duration": 3.92
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0263.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2164.91,
+    "end": 2177.85,
+    "duration": 12.94
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0264.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2177.85,
+    "end": 2182.21,
+    "duration": 4.36
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0265.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2183.98,
+    "end": 2198.46,
+    "duration": 14.48
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0266.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2198.46,
+    "end": 2203.01,
+    "duration": 4.55
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0267.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2203.01,
+    "end": 2211.08,
+    "duration": 8.07
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0268.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2211.08,
+    "end": 2219.14,
+    "duration": 8.07
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0269.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2222.08,
+    "end": 2226.32,
+    "duration": 4.24
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0270.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2229.87,
+    "end": 2242.26,
+    "duration": 12.38
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0271.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2243.61,
+    "end": 2248.31,
+    "duration": 4.69
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0272.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2248.31,
+    "end": 2259.88,
+    "duration": 11.58
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0273.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2259.88,
+    "end": 2264.24,
+    "duration": 4.36
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0274.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2264.24,
+    "end": 2271.01,
+    "duration": 6.77
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0275.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2271.01,
+    "end": 2279.42,
+    "duration": 8.41
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0276.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2279.42,
+    "end": 2287.84,
+    "duration": 8.41
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0277.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2287.84,
+    "end": 2291.22,
+    "duration": 3.38
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0278.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2291.22,
+    "end": 2299.11,
+    "duration": 7.89
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0279.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2299.11,
+    "end": 2312.93,
+    "duration": 13.82
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0280.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2312.93,
+    "end": 2327.74,
+    "duration": 14.81
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0281.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2327.74,
+    "end": 2337.75,
+    "duration": 10.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0282.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2340.92,
+    "end": 2344.47,
+    "duration": 3.55
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0283.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2344.47,
+    "end": 2354.93,
+    "duration": 10.46
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0284.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2356.67,
+    "end": 2363.78,
+    "duration": 7.1
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0285.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2365.73,
+    "end": 2371.18,
+    "duration": 5.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0286.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2371.18,
+    "end": 2377.87,
+    "duration": 6.69
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0287.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2377.87,
+    "end": 2384.56,
+    "duration": 6.69
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0288.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2384.56,
+    "end": 2391.25,
+    "duration": 6.69
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0289.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2391.25,
+    "end": 2400.55,
+    "duration": 9.3
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0290.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2400.55,
+    "end": 2408.1,
+    "duration": 7.55
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0291.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2408.1,
+    "end": 2415.65,
+    "duration": 7.55
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0292.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2415.65,
+    "end": 2425.42,
+    "duration": 9.76
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0293.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2425.42,
+    "end": 2435.18,
+    "duration": 9.76
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0294.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2435.18,
+    "end": 2446.95,
+    "duration": 11.77
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0295.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2448.41,
+    "end": 2457.23,
+    "duration": 8.82
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0296.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2457.23,
+    "end": 2466.06,
+    "duration": 8.82
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0297.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2466.06,
+    "end": 2474.88,
+    "duration": 8.82
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0298.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2474.88,
+    "end": 2483.7,
+    "duration": 8.82
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0299.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2483.7,
+    "end": 2495.5,
+    "duration": 11.8
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0300.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2495.5,
+    "end": 2500.27,
+    "duration": 4.76
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0301.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2500.27,
+    "end": 2505.74,
+    "duration": 5.47
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0302.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2507.78,
+    "end": 2511.85,
+    "duration": 4.07
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0303.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2511.85,
+    "end": 2519.81,
+    "duration": 7.96
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0304.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2519.81,
+    "end": 2527.58,
+    "duration": 7.76
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0305.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2530.4,
+    "end": 2534.58,
+    "duration": 4.18
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0306.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2534.58,
+    "end": 2538.84,
+    "duration": 4.26
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0307.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2538.84,
+    "end": 2547.9,
+    "duration": 9.06
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0308.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2547.9,
+    "end": 2556.96,
+    "duration": 9.06
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0309.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2556.96,
+    "end": 2566.03,
+    "duration": 9.06
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0310.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2566.03,
+    "end": 2575.09,
+    "duration": 9.06
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0311.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2575.09,
+    "end": 2584.15,
+    "duration": 9.06
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0312.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2584.15,
+    "end": 2590.76,
+    "duration": 6.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0313.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2590.76,
+    "end": 2599.53,
+    "duration": 8.77
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0314.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2599.53,
+    "end": 2607.0,
+    "duration": 7.47
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0315.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2607.0,
+    "end": 2614.47,
+    "duration": 7.47
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0316.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2614.47,
+    "end": 2621.93,
+    "duration": 7.47
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0317.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2621.93,
+    "end": 2632.37,
+    "duration": 10.44
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0318.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2632.37,
+    "end": 2637.29,
+    "duration": 4.92
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0319.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2644.54,
+    "end": 2653.09,
+    "duration": 8.55
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0320.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2653.09,
+    "end": 2656.42,
+    "duration": 3.32
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0321.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2656.42,
+    "end": 2661.09,
+    "duration": 4.67
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0322.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2661.09,
+    "end": 2670.01,
+    "duration": 8.92
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0323.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2674.09,
+    "end": 2678.88,
+    "duration": 4.8
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0324.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2680.06,
+    "end": 2686.58,
+    "duration": 6.52
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0325.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2686.58,
+    "end": 2698.67,
+    "duration": 12.09
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0326.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2702.85,
+    "end": 2712.78,
+    "duration": 9.93
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0327.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2717.83,
+    "end": 2722.02,
+    "duration": 4.2
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0328.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2724.78,
+    "end": 2735.24,
+    "duration": 10.47
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0329.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2735.24,
+    "end": 2743.45,
+    "duration": 8.21
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0330.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2743.45,
+    "end": 2751.66,
+    "duration": 8.21
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0331.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2751.66,
+    "end": 2762.69,
+    "duration": 11.03
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0332.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2762.69,
+    "end": 2772.77,
+    "duration": 10.08
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0333.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2772.77,
+    "end": 2779.93,
+    "duration": 7.16
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0334.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2779.93,
+    "end": 2789.46,
+    "duration": 9.53
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0335.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2789.46,
+    "end": 2798.99,
+    "duration": 9.53
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0336.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2798.99,
+    "end": 2807.53,
+    "duration": 8.54
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0337.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2807.53,
+    "end": 2816.06,
+    "duration": 8.54
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0338.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2816.06,
+    "end": 2823.47,
+    "duration": 7.41
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0339.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2823.47,
+    "end": 2830.88,
+    "duration": 7.41
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0340.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2830.88,
+    "end": 2838.29,
+    "duration": 7.41
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0341.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2839.78,
+    "end": 2845.52,
+    "duration": 5.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0342.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2846.5,
+    "end": 2850.54,
+    "duration": 4.04
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0343.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2852.51,
+    "end": 2861.43,
+    "duration": 8.92
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0344.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2861.43,
+    "end": 2870.35,
+    "duration": 8.92
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0345.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2870.35,
+    "end": 2879.28,
+    "duration": 8.92
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0346.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2879.28,
+    "end": 2886.58,
+    "duration": 7.3
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0347.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2886.58,
+    "end": 2895.62,
+    "duration": 9.04
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0348.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2895.62,
+    "end": 2904.67,
+    "duration": 9.04
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0349.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2904.67,
+    "end": 2913.71,
+    "duration": 9.04
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0350.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2913.71,
+    "end": 2922.75,
+    "duration": 9.04
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0351.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2924.21,
+    "end": 2929.88,
+    "duration": 5.66
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0352.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2929.88,
+    "end": 2934.33,
+    "duration": 4.46
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0353.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2934.33,
+    "end": 2938.49,
+    "duration": 4.15
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0354.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2938.49,
+    "end": 2943.15,
+    "duration": 4.66
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0355.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2943.15,
+    "end": 2946.42,
+    "duration": 3.27
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0356.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2947.72,
+    "end": 2952.48,
+    "duration": 4.76
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0357.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2952.48,
+    "end": 2955.87,
+    "duration": 3.39
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0358.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2955.87,
+    "end": 2961.11,
+    "duration": 5.23
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0359.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2961.11,
+    "end": 2976.08,
+    "duration": 14.98
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0360.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2976.08,
+    "end": 2988.98,
+    "duration": 12.89
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0361.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 2988.98,
+    "end": 2996.7,
+    "duration": 7.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0362.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3002.12,
+    "end": 3016.6,
+    "duration": 14.48
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0363.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3016.6,
+    "end": 3023.14,
+    "duration": 6.55
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0364.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3023.14,
+    "end": 3028.8,
+    "duration": 5.66
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0365.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3028.8,
+    "end": 3036.2,
+    "duration": 7.4
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0366.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3036.2,
+    "end": 3046.14,
+    "duration": 9.94
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0367.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3046.14,
+    "end": 3056.47,
+    "duration": 10.33
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0368.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3056.47,
+    "end": 3066.35,
+    "duration": 9.88
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0369.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3066.35,
+    "end": 3073.16,
+    "duration": 6.81
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0370.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3073.16,
+    "end": 3082.49,
+    "duration": 9.33
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0371.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3082.49,
+    "end": 3091.77,
+    "duration": 9.29
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0372.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3091.77,
+    "end": 3095.4,
+    "duration": 3.63
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0373.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3097.65,
+    "end": 3103.12,
+    "duration": 5.47
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0374.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3103.12,
+    "end": 3108.09,
+    "duration": 4.98
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0375.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3108.09,
+    "end": 3112.3,
+    "duration": 4.21
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0376.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3112.3,
+    "end": 3119.43,
+    "duration": 7.13
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0377.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3119.43,
+    "end": 3126.77,
+    "duration": 7.34
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0378.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3126.77,
+    "end": 3133.8,
+    "duration": 7.03
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0379.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3133.8,
+    "end": 3140.61,
+    "duration": 6.81
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0380.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3145.81,
+    "end": 3150.65,
+    "duration": 4.83
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0381.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3150.65,
+    "end": 3155.01,
+    "duration": 4.36
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0382.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3158.19,
+    "end": 3161.23,
+    "duration": 3.03
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0383.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3169.48,
+    "end": 3174.9,
+    "duration": 5.41
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0384.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3177.51,
+    "end": 3180.84,
+    "duration": 3.33
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0385.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3184.62,
+    "end": 3192.57,
+    "duration": 7.95
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0386.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3192.57,
+    "end": 3196.81,
+    "duration": 4.24
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0387.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3196.81,
+    "end": 3201.03,
+    "duration": 4.22
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0388.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3201.03,
+    "end": 3212.12,
+    "duration": 11.09
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0389.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3212.12,
+    "end": 3221.94,
+    "duration": 9.82
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0390.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3221.94,
+    "end": 3231.76,
+    "duration": 9.82
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0391.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3231.76,
+    "end": 3241.58,
+    "duration": 9.82
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0392.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3251.69,
+    "end": 3255.1,
+    "duration": 3.42
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0393.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3255.1,
+    "end": 3258.35,
+    "duration": 3.25
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0394.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3259.9,
+    "end": 3269.89,
+    "duration": 9.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0395.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3269.89,
+    "end": 3275.04,
+    "duration": 5.15
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0396.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3275.04,
+    "end": 3278.92,
+    "duration": 3.88
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0397.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3278.92,
+    "end": 3288.24,
+    "duration": 9.32
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0398.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3288.24,
+    "end": 3296.69,
+    "duration": 8.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0399.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3296.69,
+    "end": 3305.13,
+    "duration": 8.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0400.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3305.13,
+    "end": 3308.24,
+    "duration": 3.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0401.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3308.24,
+    "end": 3318.73,
+    "duration": 10.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0402.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3318.73,
+    "end": 3326.24,
+    "duration": 7.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0403.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3326.24,
+    "end": 3333.74,
+    "duration": 7.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0404.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3333.74,
+    "end": 3341.24,
+    "duration": 7.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0405.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3341.24,
+    "end": 3349.8,
+    "duration": 8.56
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0406.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3349.8,
+    "end": 3358.37,
+    "duration": 8.56
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0407.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3358.37,
+    "end": 3366.93,
+    "duration": 8.56
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0408.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3366.93,
+    "end": 3375.5,
+    "duration": 8.56
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0409.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3375.5,
+    "end": 3381.02,
+    "duration": 5.53
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0410.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3381.02,
+    "end": 3385.39,
+    "duration": 4.37
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0411.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3385.39,
+    "end": 3389.14,
+    "duration": 3.75
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0412.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3389.14,
+    "end": 3402.82,
+    "duration": 13.68
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0413.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3402.82,
+    "end": 3410.81,
+    "duration": 7.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0414.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3410.81,
+    "end": 3416.19,
+    "duration": 5.38
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0415.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3417.53,
+    "end": 3430.17,
+    "duration": 12.64
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0416.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3432.98,
+    "end": 3442.09,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0417.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3442.09,
+    "end": 3451.2,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0418.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3451.2,
+    "end": 3460.31,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0419.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3460.31,
+    "end": 3469.42,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0420.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3469.42,
+    "end": 3478.53,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0421.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3478.53,
+    "end": 3488.28,
+    "duration": 9.74
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0422.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3488.28,
+    "end": 3498.02,
+    "duration": 9.74
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0423.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3498.02,
+    "end": 3506.73,
+    "duration": 8.71
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0424.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3506.73,
+    "end": 3515.44,
+    "duration": 8.71
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0425.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3515.44,
+    "end": 3529.43,
+    "duration": 13.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0426.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3529.43,
+    "end": 3537.19,
+    "duration": 7.76
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0427.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3537.19,
+    "end": 3542.73,
+    "duration": 5.54
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0428.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3542.73,
+    "end": 3551.33,
+    "duration": 8.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0429.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3551.33,
+    "end": 3559.94,
+    "duration": 8.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0430.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3559.94,
+    "end": 3564.5,
+    "duration": 4.56
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0431.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3564.5,
+    "end": 3573.84,
+    "duration": 9.33
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0432.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3573.84,
+    "end": 3583.17,
+    "duration": 9.33
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0433.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3583.17,
+    "end": 3593.05,
+    "duration": 9.88
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0434.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3593.05,
+    "end": 3602.92,
+    "duration": 9.88
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0435.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3602.92,
+    "end": 3612.8,
+    "duration": 9.88
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0436.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3612.8,
+    "end": 3620.3,
+    "duration": 7.51
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0437.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3620.3,
+    "end": 3627.81,
+    "duration": 7.51
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0438.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3627.81,
+    "end": 3636.07,
+    "duration": 8.26
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0439.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3641.22,
+    "end": 3644.81,
+    "duration": 3.58
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0440.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3644.81,
+    "end": 3648.11,
+    "duration": 3.3
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0441.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3648.11,
+    "end": 3662.07,
+    "duration": 13.96
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0442.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3662.07,
+    "end": 3669.36,
+    "duration": 7.29
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0443.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3669.36,
+    "end": 3678.49,
+    "duration": 9.13
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0444.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3681.32,
+    "end": 3691.42,
+    "duration": 10.1
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0445.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3692.62,
+    "end": 3701.16,
+    "duration": 8.55
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0446.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3701.16,
+    "end": 3705.74,
+    "duration": 4.57
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0447.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3708.72,
+    "end": 3712.04,
+    "duration": 3.32
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0448.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3712.04,
+    "end": 3720.36,
+    "duration": 8.32
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0449.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3720.36,
+    "end": 3728.7,
+    "duration": 8.35
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0450.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3728.7,
+    "end": 3737.05,
+    "duration": 8.35
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0451.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3737.05,
+    "end": 3745.4,
+    "duration": 8.35
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0452.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3745.4,
+    "end": 3753.74,
+    "duration": 8.35
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0453.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3753.74,
+    "end": 3762.09,
+    "duration": 8.35
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0454.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3762.09,
+    "end": 3773.98,
+    "duration": 11.89
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0455.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3775.7,
+    "end": 3780.84,
+    "duration": 5.14
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0456.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3783.27,
+    "end": 3788.18,
+    "duration": 4.92
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0457.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3789.66,
+    "end": 3794.29,
+    "duration": 4.63
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0458.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3794.29,
+    "end": 3803.25,
+    "duration": 8.96
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0459.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3803.25,
+    "end": 3812.21,
+    "duration": 8.96
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0460.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3812.21,
+    "end": 3817.83,
+    "duration": 5.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0461.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3822.28,
+    "end": 3832.39,
+    "duration": 10.12
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0462.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3832.39,
+    "end": 3839.03,
+    "duration": 6.64
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0463.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3839.03,
+    "end": 3848.45,
+    "duration": 9.42
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0464.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3848.45,
+    "end": 3852.93,
+    "duration": 4.48
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0465.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3852.93,
+    "end": 3856.43,
+    "duration": 3.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0466.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3856.43,
+    "end": 3860.87,
+    "duration": 4.44
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0467.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3860.87,
+    "end": 3866.97,
+    "duration": 6.1
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0468.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3866.97,
+    "end": 3873.98,
+    "duration": 7.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0469.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3873.98,
+    "end": 3880.99,
+    "duration": 7.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0470.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3880.99,
+    "end": 3888.0,
+    "duration": 7.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0471.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3888.0,
+    "end": 3893.27,
+    "duration": 5.27
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0472.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3893.27,
+    "end": 3898.51,
+    "duration": 5.24
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0473.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3900.98,
+    "end": 3909.62,
+    "duration": 8.64
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0474.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3909.62,
+    "end": 3918.69,
+    "duration": 9.08
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0475.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3918.69,
+    "end": 3923.49,
+    "duration": 4.8
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0476.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3923.49,
+    "end": 3926.77,
+    "duration": 3.28
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0477.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3926.77,
+    "end": 3939.77,
+    "duration": 13.0
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0478.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3939.77,
+    "end": 3943.39,
+    "duration": 3.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0479.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3943.39,
+    "end": 3947.45,
+    "duration": 4.06
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0480.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3947.45,
+    "end": 3950.75,
+    "duration": 3.31
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0481.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3950.75,
+    "end": 3961.65,
+    "duration": 10.89
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0482.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3961.65,
+    "end": 3970.7,
+    "duration": 9.05
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0483.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3970.7,
+    "end": 3979.75,
+    "duration": 9.05
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0484.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3979.75,
+    "end": 3988.81,
+    "duration": 9.05
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0485.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3988.81,
+    "end": 3992.54,
+    "duration": 3.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0486.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 3992.54,
+    "end": 4001.33,
+    "duration": 8.79
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0487.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4001.33,
+    "end": 4015.04,
+    "duration": 13.71
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0488.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4015.04,
+    "end": 4024.18,
+    "duration": 9.14
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0489.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4026.31,
+    "end": 4030.01,
+    "duration": 3.7
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0490.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4030.01,
+    "end": 4035.96,
+    "duration": 5.94
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0491.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4040.98,
+    "end": 4048.25,
+    "duration": 7.27
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0492.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4057.83,
+    "end": 4066.64,
+    "duration": 8.81
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0493.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4066.64,
+    "end": 4069.96,
+    "duration": 3.32
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0494.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4069.96,
+    "end": 4078.24,
+    "duration": 8.29
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0495.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4078.24,
+    "end": 4086.53,
+    "duration": 8.29
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0496.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4086.53,
+    "end": 4094.82,
+    "duration": 8.29
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0497.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4094.82,
+    "end": 4103.1,
+    "duration": 8.29
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0498.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4103.1,
+    "end": 4111.7,
+    "duration": 8.6
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0499.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4111.7,
+    "end": 4120.29,
+    "duration": 8.6
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0500.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4120.29,
+    "end": 4128.89,
+    "duration": 8.6
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0501.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4128.89,
+    "end": 4135.98,
+    "duration": 7.09
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0502.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4135.98,
+    "end": 4143.07,
+    "duration": 7.09
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0503.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4143.07,
+    "end": 4150.16,
+    "duration": 7.09
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0504.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4152.46,
+    "end": 4161.26,
+    "duration": 8.8
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0505.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4161.26,
+    "end": 4169.93,
+    "duration": 8.68
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0506.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4169.93,
+    "end": 4178.61,
+    "duration": 8.68
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0507.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4178.61,
+    "end": 4187.29,
+    "duration": 8.68
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0508.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4187.29,
+    "end": 4193.68,
+    "duration": 6.39
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0509.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4196.09,
+    "end": 4210.29,
+    "duration": 14.2
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0510.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4210.29,
+    "end": 4216.05,
+    "duration": 5.76
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0511.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4216.05,
+    "end": 4224.88,
+    "duration": 8.83
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0512.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4230.12,
+    "end": 4236.38,
+    "duration": 6.26
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0513.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4236.38,
+    "end": 4243.85,
+    "duration": 7.47
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0514.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4243.85,
+    "end": 4251.49,
+    "duration": 7.64
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0515.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4251.49,
+    "end": 4259.13,
+    "duration": 7.64
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0516.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4260.88,
+    "end": 4269.76,
+    "duration": 8.89
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0517.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4269.76,
+    "end": 4275.84,
+    "duration": 6.08
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0518.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4275.84,
+    "end": 4279.36,
+    "duration": 3.52
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0519.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4280.57,
+    "end": 4284.4,
+    "duration": 3.82
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0520.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4287.08,
+    "end": 4294.21,
+    "duration": 7.13
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0521.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4294.21,
+    "end": 4301.34,
+    "duration": 7.13
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0522.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4301.34,
+    "end": 4308.47,
+    "duration": 7.13
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0523.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4308.47,
+    "end": 4318.54,
+    "duration": 10.08
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0524.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4320.85,
+    "end": 4329.65,
+    "duration": 8.79
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0525.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4329.65,
+    "end": 4338.44,
+    "duration": 8.79
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0526.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4338.44,
+    "end": 4347.23,
+    "duration": 8.79
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0527.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4347.23,
+    "end": 4356.03,
+    "duration": 8.79
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0528.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4358.9,
+    "end": 4366.37,
+    "duration": 7.46
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0529.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4366.37,
+    "end": 4370.76,
+    "duration": 4.39
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0530.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4370.76,
+    "end": 4380.84,
+    "duration": 10.08
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0531.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4380.84,
+    "end": 4387.96,
+    "duration": 7.12
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0532.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4387.96,
+    "end": 4395.08,
+    "duration": 7.12
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0533.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4395.08,
+    "end": 4402.2,
+    "duration": 7.12
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0534.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4404.47,
+    "end": 4408.88,
+    "duration": 4.41
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0535.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4410.99,
+    "end": 4415.76,
+    "duration": 4.76
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0536.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4415.76,
+    "end": 4423.56,
+    "duration": 7.8
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0537.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4423.56,
+    "end": 4436.48,
+    "duration": 12.92
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0538.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4436.48,
+    "end": 4441.0,
+    "duration": 4.52
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0539.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4441.0,
+    "end": 4449.47,
+    "duration": 8.47
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0540.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4449.47,
+    "end": 4457.95,
+    "duration": 8.47
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0541.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4457.95,
+    "end": 4466.42,
+    "duration": 8.47
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0542.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4466.42,
+    "end": 4474.9,
+    "duration": 8.47
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0543.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4474.9,
+    "end": 4483.37,
+    "duration": 8.47
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0544.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4483.37,
+    "end": 4487.18,
+    "duration": 3.81
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0545.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4487.18,
+    "end": 4501.69,
+    "duration": 14.51
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0546.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4501.69,
+    "end": 4507.22,
+    "duration": 5.53
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0547.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4509.59,
+    "end": 4518.37,
+    "duration": 8.78
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0548.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4518.37,
+    "end": 4527.14,
+    "duration": 8.78
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0549.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4527.14,
+    "end": 4535.92,
+    "duration": 8.78
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0550.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4535.92,
+    "end": 4544.7,
+    "duration": 8.78
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0551.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4544.7,
+    "end": 4553.7,
+    "duration": 9.0
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0552.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4555.29,
+    "end": 4558.29,
+    "duration": 3.0
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0553.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4560.12,
+    "end": 4568.55,
+    "duration": 8.42
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0554.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4568.55,
+    "end": 4576.97,
+    "duration": 8.42
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0555.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4576.97,
+    "end": 4585.39,
+    "duration": 8.42
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0556.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4585.39,
+    "end": 4589.7,
+    "duration": 4.31
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0557.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4593.77,
+    "end": 4598.91,
+    "duration": 5.13
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0558.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4600.8,
+    "end": 4610.94,
+    "duration": 10.14
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0559.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4613.73,
+    "end": 4618.84,
+    "duration": 5.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0560.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4619.69,
+    "end": 4627.66,
+    "duration": 7.96
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0561.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4627.66,
+    "end": 4635.62,
+    "duration": 7.96
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0562.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4635.62,
+    "end": 4643.59,
+    "duration": 7.96
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0563.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4643.59,
+    "end": 4651.42,
+    "duration": 7.83
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0564.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4651.42,
+    "end": 4656.47,
+    "duration": 5.04
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0565.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4657.76,
+    "end": 4661.66,
+    "duration": 3.9
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0566.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4665.44,
+    "end": 4669.24,
+    "duration": 3.8
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0567.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4671.3,
+    "end": 4676.42,
+    "duration": 5.12
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0568.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4680.46,
+    "end": 4686.25,
+    "duration": 5.79
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0569.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4686.25,
+    "end": 4694.27,
+    "duration": 8.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0570.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4694.27,
+    "end": 4702.3,
+    "duration": 8.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0571.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4704.15,
+    "end": 4710.37,
+    "duration": 6.23
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0572.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4710.37,
+    "end": 4715.41,
+    "duration": 5.04
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0573.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4719.36,
+    "end": 4722.61,
+    "duration": 3.24
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0574.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4728.39,
+    "end": 4738.7,
+    "duration": 10.31
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0575.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4738.7,
+    "end": 4745.35,
+    "duration": 6.65
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0576.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4745.35,
+    "end": 4754.37,
+    "duration": 9.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0577.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4754.37,
+    "end": 4763.39,
+    "duration": 9.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0578.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4764.93,
+    "end": 4772.66,
+    "duration": 7.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0579.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4772.66,
+    "end": 4780.4,
+    "duration": 7.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0580.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4780.4,
+    "end": 4788.13,
+    "duration": 7.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0581.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4788.13,
+    "end": 4796.79,
+    "duration": 8.66
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0582.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4796.79,
+    "end": 4800.16,
+    "duration": 3.37
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0583.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4808.55,
+    "end": 4812.5,
+    "duration": 3.95
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0584.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4812.5,
+    "end": 4820.37,
+    "duration": 7.87
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0585.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4820.37,
+    "end": 4825.06,
+    "duration": 4.69
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0586.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4825.06,
+    "end": 4829.09,
+    "duration": 4.03
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0587.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4838.8,
+    "end": 4842.26,
+    "duration": 3.46
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0588.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4842.26,
+    "end": 4845.34,
+    "duration": 3.08
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0589.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4846.6,
+    "end": 4851.11,
+    "duration": 4.51
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0590.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4851.11,
+    "end": 4855.42,
+    "duration": 4.31
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0591.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4855.42,
+    "end": 4869.24,
+    "duration": 13.82
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0592.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4869.97,
+    "end": 4874.05,
+    "duration": 4.08
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-211220744_456239510_0593.wav",
+    "source": "-211220744_456239510.wav",
+    "start": 4880.75,
+    "end": 4892.4,
+    "duration": 11.65
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0000.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 0.26,
+    "end": 9.99,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0001.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 9.99,
+    "end": 19.73,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0002.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 19.73,
+    "end": 29.46,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0003.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 29.46,
+    "end": 39.19,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0004.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 39.19,
+    "end": 48.93,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0005.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 48.93,
+    "end": 58.66,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0006.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 58.66,
+    "end": 68.39,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0007.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 68.39,
+    "end": 78.13,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0008.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 78.13,
+    "end": 87.86,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0009.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 87.86,
+    "end": 97.59,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0010.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 97.59,
+    "end": 107.33,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0011.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 107.33,
+    "end": 117.06,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0012.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 117.06,
+    "end": 126.79,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0013.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 126.79,
+    "end": 136.53,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0014.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 136.53,
+    "end": 146.26,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0015.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 146.26,
+    "end": 155.99,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0016.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 155.99,
+    "end": 165.73,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0017.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 165.73,
+    "end": 175.46,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0018.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 175.46,
+    "end": 185.19,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0019.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 185.19,
+    "end": 194.93,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0020.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 194.93,
+    "end": 204.66,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0021.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 204.66,
+    "end": 214.11,
+    "duration": 9.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0022.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 214.11,
+    "end": 223.56,
+    "duration": 9.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0023.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 223.56,
+    "end": 233.02,
+    "duration": 9.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0024.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 233.02,
+    "end": 242.47,
+    "duration": 9.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0025.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 242.47,
+    "end": 251.92,
+    "duration": 9.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0026.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 251.92,
+    "end": 261.37,
+    "duration": 9.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0027.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 261.37,
+    "end": 270.82,
+    "duration": 9.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0028.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 270.82,
+    "end": 280.27,
+    "duration": 9.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0029.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 280.27,
+    "end": 289.73,
+    "duration": 9.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0030.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 289.73,
+    "end": 299.18,
+    "duration": 9.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0031.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 299.18,
+    "end": 308.63,
+    "duration": 9.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0032.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 308.63,
+    "end": 318.08,
+    "duration": 9.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0033.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 318.08,
+    "end": 327.53,
+    "duration": 9.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0034.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 327.53,
+    "end": 336.99,
+    "duration": 9.45
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0035.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 336.99,
+    "end": 346.6,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0036.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 346.6,
+    "end": 356.22,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0037.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 356.22,
+    "end": 365.84,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0038.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 365.84,
+    "end": 375.46,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0039.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 375.46,
+    "end": 385.08,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0040.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 385.08,
+    "end": 394.7,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0041.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 394.7,
+    "end": 404.32,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0042.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 404.32,
+    "end": 413.94,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0043.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 413.94,
+    "end": 423.56,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0044.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 423.56,
+    "end": 433.18,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0045.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 433.18,
+    "end": 442.8,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0046.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 442.8,
+    "end": 452.42,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0047.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 452.42,
+    "end": 462.04,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0048.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 462.04,
+    "end": 471.66,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0049.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 471.66,
+    "end": 481.28,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0050.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 481.28,
+    "end": 490.9,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0051.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 490.9,
+    "end": 500.52,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0052.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 500.52,
+    "end": 510.14,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0053.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 510.14,
+    "end": 519.76,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0054.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 519.76,
+    "end": 529.38,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0055.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 529.38,
+    "end": 539.0,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0056.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 539.0,
+    "end": 548.62,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0057.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 548.62,
+    "end": 558.24,
+    "duration": 9.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0058.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 561.48,
+    "end": 568.89,
+    "duration": 7.41
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0059.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 568.89,
+    "end": 574.19,
+    "duration": 5.3
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0060.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 574.19,
+    "end": 578.06,
+    "duration": 3.87
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0061.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 578.06,
+    "end": 581.09,
+    "duration": 3.03
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0062.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 583.55,
+    "end": 590.62,
+    "duration": 7.07
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0063.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 590.62,
+    "end": 597.68,
+    "duration": 7.07
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0064.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 597.68,
+    "end": 604.75,
+    "duration": 7.07
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0065.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 604.75,
+    "end": 617.67,
+    "duration": 12.92
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0066.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 617.67,
+    "end": 631.62,
+    "duration": 13.95
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0067.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 633.31,
+    "end": 640.51,
+    "duration": 7.2
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0068.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 640.51,
+    "end": 647.71,
+    "duration": 7.2
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0069.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 647.71,
+    "end": 654.91,
+    "duration": 7.2
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0070.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 654.91,
+    "end": 658.77,
+    "duration": 3.86
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0071.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 658.77,
+    "end": 671.66,
+    "duration": 12.88
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0072.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 671.66,
+    "end": 681.39,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0073.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 681.39,
+    "end": 691.12,
+    "duration": 9.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0074.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 691.12,
+    "end": 700.82,
+    "duration": 9.7
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0075.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 700.82,
+    "end": 710.52,
+    "duration": 9.7
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0076.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 710.52,
+    "end": 718.54,
+    "duration": 8.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0077.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 718.54,
+    "end": 726.55,
+    "duration": 8.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0078.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 726.55,
+    "end": 733.42,
+    "duration": 6.86
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0079.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 734.45,
+    "end": 743.06,
+    "duration": 8.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0080.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 743.06,
+    "end": 751.67,
+    "duration": 8.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0081.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 751.67,
+    "end": 760.29,
+    "duration": 8.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0082.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 760.29,
+    "end": 763.65,
+    "duration": 3.36
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0083.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 763.65,
+    "end": 768.73,
+    "duration": 5.07
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0084.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 768.73,
+    "end": 773.24,
+    "duration": 4.51
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0085.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 773.24,
+    "end": 786.05,
+    "duration": 12.82
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0086.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 788.78,
+    "end": 792.73,
+    "duration": 3.96
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0087.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 792.73,
+    "end": 802.35,
+    "duration": 9.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0088.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 802.35,
+    "end": 811.96,
+    "duration": 9.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0089.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 811.96,
+    "end": 821.57,
+    "duration": 9.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0090.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 821.57,
+    "end": 831.18,
+    "duration": 9.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0091.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 831.18,
+    "end": 840.79,
+    "duration": 9.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0092.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 840.79,
+    "end": 850.4,
+    "duration": 9.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0093.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 850.4,
+    "end": 860.02,
+    "duration": 9.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0094.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 860.02,
+    "end": 869.63,
+    "duration": 9.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0095.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 869.63,
+    "end": 879.24,
+    "duration": 9.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0096.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 879.24,
+    "end": 888.85,
+    "duration": 9.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0097.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 888.85,
+    "end": 898.46,
+    "duration": 9.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0098.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 898.46,
+    "end": 908.08,
+    "duration": 9.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0099.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 908.08,
+    "end": 917.69,
+    "duration": 9.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0100.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 917.69,
+    "end": 927.3,
+    "duration": 9.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0101.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 927.3,
+    "end": 936.91,
+    "duration": 9.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0102.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 936.91,
+    "end": 949.0,
+    "duration": 12.09
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0103.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 951.68,
+    "end": 960.11,
+    "duration": 8.44
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0104.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 960.11,
+    "end": 968.55,
+    "duration": 8.44
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0105.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 968.55,
+    "end": 975.61,
+    "duration": 7.06
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0106.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 975.61,
+    "end": 982.67,
+    "duration": 7.06
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0107.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 982.67,
+    "end": 989.72,
+    "duration": 7.06
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0108.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 993.26,
+    "end": 1001.74,
+    "duration": 8.48
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0109.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1001.74,
+    "end": 1005.03,
+    "duration": 3.29
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0110.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1005.03,
+    "end": 1017.03,
+    "duration": 12.0
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0111.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1017.03,
+    "end": 1023.99,
+    "duration": 6.96
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0112.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1023.99,
+    "end": 1030.95,
+    "duration": 6.96
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0113.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1030.95,
+    "end": 1037.91,
+    "duration": 6.96
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0114.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1037.91,
+    "end": 1041.02,
+    "duration": 3.1
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0115.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1043.57,
+    "end": 1046.72,
+    "duration": 3.16
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0116.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1049.41,
+    "end": 1053.02,
+    "duration": 3.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0117.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1053.02,
+    "end": 1061.51,
+    "duration": 8.5
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0118.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1062.55,
+    "end": 1066.94,
+    "duration": 4.39
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0119.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1066.94,
+    "end": 1078.64,
+    "duration": 11.7
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0120.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1080.85,
+    "end": 1085.02,
+    "duration": 4.16
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0121.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1086.68,
+    "end": 1097.36,
+    "duration": 10.68
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0122.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1097.36,
+    "end": 1105.38,
+    "duration": 8.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0123.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1105.38,
+    "end": 1113.4,
+    "duration": 8.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0124.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1113.4,
+    "end": 1121.42,
+    "duration": 8.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0125.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1121.42,
+    "end": 1128.42,
+    "duration": 7.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0126.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1128.42,
+    "end": 1135.43,
+    "duration": 7.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0127.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1135.43,
+    "end": 1142.44,
+    "duration": 7.01
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0128.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1145.28,
+    "end": 1153.26,
+    "duration": 7.98
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0129.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1153.26,
+    "end": 1161.24,
+    "duration": 7.98
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0130.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1161.24,
+    "end": 1170.09,
+    "duration": 8.85
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0131.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1170.09,
+    "end": 1178.94,
+    "duration": 8.85
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0132.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1179.54,
+    "end": 1187.25,
+    "duration": 7.71
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0133.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1187.25,
+    "end": 1195.65,
+    "duration": 8.4
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0134.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1195.65,
+    "end": 1204.05,
+    "duration": 8.4
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0135.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1204.05,
+    "end": 1212.45,
+    "duration": 8.4
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0136.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1212.45,
+    "end": 1220.25,
+    "duration": 7.8
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0137.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1220.25,
+    "end": 1228.05,
+    "duration": 7.8
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0138.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1228.05,
+    "end": 1232.51,
+    "duration": 4.46
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0139.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1232.51,
+    "end": 1244.62,
+    "duration": 12.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0140.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1244.62,
+    "end": 1250.71,
+    "duration": 6.08
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0141.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1250.71,
+    "end": 1255.78,
+    "duration": 5.08
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0142.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1255.78,
+    "end": 1262.47,
+    "duration": 6.69
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0143.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1262.47,
+    "end": 1272.23,
+    "duration": 9.76
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0144.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1272.23,
+    "end": 1275.25,
+    "duration": 3.02
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0145.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1275.25,
+    "end": 1283.65,
+    "duration": 8.4
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0146.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1283.65,
+    "end": 1292.78,
+    "duration": 9.12
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0147.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1295.42,
+    "end": 1305.24,
+    "duration": 9.82
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0148.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1306.6,
+    "end": 1318.0,
+    "duration": 11.4
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0149.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1318.0,
+    "end": 1332.84,
+    "duration": 14.84
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0150.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1332.84,
+    "end": 1344.23,
+    "duration": 11.39
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0151.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1344.23,
+    "end": 1352.94,
+    "duration": 8.72
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0153.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1361.66,
+    "end": 1370.38,
+    "duration": 8.72
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0154.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1370.38,
+    "end": 1378.86,
+    "duration": 8.48
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0155.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1378.86,
+    "end": 1387.34,
+    "duration": 8.48
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0156.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1387.34,
+    "end": 1395.82,
+    "duration": 8.48
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0157.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1395.82,
+    "end": 1404.3,
+    "duration": 8.48
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0158.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1404.3,
+    "end": 1412.78,
+    "duration": 8.48
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0159.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1412.78,
+    "end": 1425.95,
+    "duration": 13.17
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0160.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1425.95,
+    "end": 1434.52,
+    "duration": 8.57
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0161.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1436.33,
+    "end": 1441.76,
+    "duration": 5.42
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0162.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1444.55,
+    "end": 1458.77,
+    "duration": 14.22
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0163.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1458.77,
+    "end": 1466.92,
+    "duration": 8.16
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0164.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1469.1,
+    "end": 1472.87,
+    "duration": 3.77
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0165.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1474.71,
+    "end": 1477.98,
+    "duration": 3.27
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0166.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1482.44,
+    "end": 1491.42,
+    "duration": 8.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0167.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1491.42,
+    "end": 1500.41,
+    "duration": 8.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0168.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1500.41,
+    "end": 1509.4,
+    "duration": 8.99
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0169.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1509.4,
+    "end": 1514.86,
+    "duration": 5.46
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0171.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1526.55,
+    "end": 1534.75,
+    "duration": 8.2
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0172.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1534.75,
+    "end": 1542.95,
+    "duration": 8.2
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0173.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1542.95,
+    "end": 1552.06,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0174.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1552.06,
+    "end": 1561.16,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0175.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1561.16,
+    "end": 1570.27,
+    "duration": 9.11
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0178.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1585.88,
+    "end": 1593.2,
+    "duration": 7.32
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0179.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1593.2,
+    "end": 1601.41,
+    "duration": 8.21
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0180.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1601.41,
+    "end": 1609.62,
+    "duration": 8.21
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0182.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1614.58,
+    "end": 1621.53,
+    "duration": 6.95
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0183.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1623.19,
+    "end": 1632.48,
+    "duration": 9.29
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0185.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1644.65,
+    "end": 1656.41,
+    "duration": 11.76
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0187.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1664.96,
+    "end": 1676.77,
+    "duration": 11.81
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0188.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1676.77,
+    "end": 1691.48,
+    "duration": 14.71
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0190.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1698.33,
+    "end": 1705.19,
+    "duration": 6.86
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0191.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1705.19,
+    "end": 1712.05,
+    "duration": 6.86
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0192.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1712.05,
+    "end": 1716.68,
+    "duration": 4.63
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0193.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1716.68,
+    "end": 1725.54,
+    "duration": 8.86
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0197.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1753.61,
+    "end": 1760.9,
+    "duration": 7.29
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0198.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1760.9,
+    "end": 1768.19,
+    "duration": 7.29
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0199.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1770.98,
+    "end": 1774.47,
+    "duration": 3.49
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0201.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1782.28,
+    "end": 1790.1,
+    "duration": 7.82
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0202.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1790.1,
+    "end": 1798.97,
+    "duration": 8.87
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0203.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1798.97,
+    "end": 1807.88,
+    "duration": 8.92
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0205.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1821.55,
+    "end": 1831.25,
+    "duration": 9.7
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0206.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1831.25,
+    "end": 1840.95,
+    "duration": 9.7
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0208.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1850.66,
+    "end": 1860.36,
+    "duration": 9.7
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0209.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1860.36,
+    "end": 1870.06,
+    "duration": 9.7
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0214.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1908.87,
+    "end": 1918.57,
+    "duration": 9.7
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0215.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1918.57,
+    "end": 1928.27,
+    "duration": 9.7
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0217.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1937.97,
+    "end": 1947.68,
+    "duration": 9.7
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0218.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1947.68,
+    "end": 1957.38,
+    "duration": 9.7
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0221.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1976.78,
+    "end": 1986.48,
+    "duration": 9.7
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0223.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 1996.19,
+    "end": 2005.89,
+    "duration": 9.7
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0228.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2044.69,
+    "end": 2056.97,
+    "duration": 12.27
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0230.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2063.08,
+    "end": 2067.81,
+    "duration": 4.73
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0235.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2097.53,
+    "end": 2105.1,
+    "duration": 7.57
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0238.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2124.52,
+    "end": 2133.55,
+    "duration": 9.03
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0239.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2133.55,
+    "end": 2142.57,
+    "duration": 9.03
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0240.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2142.57,
+    "end": 2151.6,
+    "duration": 9.03
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0242.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2160.63,
+    "end": 2169.65,
+    "duration": 9.03
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0243.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2169.65,
+    "end": 2178.68,
+    "duration": 9.03
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0246.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2200.64,
+    "end": 2210.36,
+    "duration": 9.72
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0247.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2210.36,
+    "end": 2217.78,
+    "duration": 7.42
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0250.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2238.32,
+    "end": 2241.42,
+    "duration": 3.1
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0251.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2241.42,
+    "end": 2250.13,
+    "duration": 8.71
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0253.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2258.84,
+    "end": 2267.55,
+    "duration": 8.71
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0255.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2276.26,
+    "end": 2284.97,
+    "duration": 8.71
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0257.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2293.13,
+    "end": 2302.09,
+    "duration": 8.96
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0258.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2302.09,
+    "end": 2311.05,
+    "duration": 8.96
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0267.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2377.63,
+    "end": 2381.6,
+    "duration": 3.97
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0268.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2381.6,
+    "end": 2385.8,
+    "duration": 4.2
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0271.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2401.55,
+    "end": 2409.53,
+    "duration": 7.97
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0272.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2409.53,
+    "end": 2417.5,
+    "duration": 7.97
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0274.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2425.48,
+    "end": 2429.69,
+    "duration": 4.22
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0275.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2429.69,
+    "end": 2435.73,
+    "duration": 6.03
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0280.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2470.22,
+    "end": 2479.03,
+    "duration": 8.8
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0281.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2479.03,
+    "end": 2487.83,
+    "duration": 8.8
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0282.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2490.62,
+    "end": 2498.08,
+    "duration": 7.46
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0284.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2503.73,
+    "end": 2511.77,
+    "duration": 8.04
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0285.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2511.77,
+    "end": 2519.82,
+    "duration": 8.04
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0286.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2519.82,
+    "end": 2523.32,
+    "duration": 3.51
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0289.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2545.17,
+    "end": 2553.03,
+    "duration": 7.86
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0291.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2564.37,
+    "end": 2571.6,
+    "duration": 7.23
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0297.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2610.51,
+    "end": 2618.41,
+    "duration": 7.9
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0300.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2630.49,
+    "end": 2633.57,
+    "duration": 3.07
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0312.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2723.06,
+    "end": 2730.98,
+    "duration": 7.93
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0313.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2730.98,
+    "end": 2738.91,
+    "duration": 7.93
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0316.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2754.76,
+    "end": 2760.38,
+    "duration": 5.62
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0317.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2760.38,
+    "end": 2771.72,
+    "duration": 11.34
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0321.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2789.7,
+    "end": 2796.59,
+    "duration": 6.89
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0323.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2804.99,
+    "end": 2813.4,
+    "duration": 8.4
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0331.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2873.23,
+    "end": 2885.84,
+    "duration": 12.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0340.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 2935.47,
+    "end": 2943.57,
+    "duration": 8.1
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0354.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 3059.22,
+    "end": 3062.82,
+    "duration": 3.61
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0362.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 3130.08,
+    "end": 3138.92,
+    "duration": 8.85
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0368.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 3183.73,
+    "end": 3192.61,
+    "duration": 8.87
+  },
+  {
+    "audio_path": "download/burunov-voice/segments/-79593645_456239604_0373.wav",
+    "source": "-79593645_456239604.wav",
+    "start": 3227.96,
+    "end": 3236.12,
+    "duration": 8.16
+  }
+]

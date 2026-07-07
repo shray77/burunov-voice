@@ -1,0 +1,18 @@
+# Compiled / cache
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Local config
+.env
+.env.local
+
+# Temp
+*.tmp
+*.bak
